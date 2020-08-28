@@ -1,1 +1,3 @@
-# devops-aula03
+Leonardo di Caprio
+Wagner Moura
+Pedro Alonso
